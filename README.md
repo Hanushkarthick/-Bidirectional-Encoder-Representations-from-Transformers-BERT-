@@ -1,2 +1,2 @@
-# -Bidirectional-Encoder-Representations-from-Transformers-BERT-
-A Networking Company is selling the Software and Hardware products, throughout the world. They wanted to create a single Chatbot for their customers, marketing people  and Service personals to review the products. Hence they wanted to create a chatbot  with the support of Bidirectional Encoder Representations from Transformers (BERT) system.
+# bert
+Bidirectional Encoder Representations from Transformers (BERT)
